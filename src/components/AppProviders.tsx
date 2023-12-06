@@ -3,7 +3,7 @@ import { CssBaseline } from '@mui/material'
 
 const theme = createTheme ({
     palette: {
-        mode: 'dark'
+        mode: 'dark'//another option is light
     }
 })
 
